@@ -1,0 +1,14 @@
+layout_spectrum: 0.5698174
+typography_spectrum: 0.4667025
+color:
+  saturation: 0.716971
+  lightness: 0.3979592
+  brandStrength: 0.7769351
+  brandColors:
+    - '#FFFFFF'
+    - '#393942'
+    - '#E1776D'
+    - '#91776D'
+    - '#DFE25B'
+  rhythmicContrast: 0.9953447
+name: jwoolson
